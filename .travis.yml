@@ -1,0 +1,33 @@
+language: generic
+sudo: false
+
+addons:
+  apt:
+    packages:
+    - texlive-latex-recommended
+    - texlive-fonts-recommended
+    - texlive-fonts-extra
+    - texlive-latex-extra
+    - texlive-lang-greek
+    - texlive-generic-recommended
+    - texlive-science
+    - latex-beamer
+    - lmodern
+
+script:
+  - pdflatex -halt-on-error thesis.tex && bibtex thesis && pdflatex thesis.tex && pdflatex thesis.tex
+
+after_success:
+  - git clone --depth 1 https://${GH_TOKEN}@github.com/mcmory/mcmory.github.io.git
+  - cp -v ${TRAVIS_BUILD_DIR}/*.pdf mcmory.github.io/
+  - cd mcmory.github.io
+  - touch .nojekyll
+  - git config user.email "support@travis-ci.com"
+  - git config user.name "Travis CI"
+  - git add -A .
+  - git commit -a -m "Travis build ${TRAVIS_BUILD_NUMBER}"
+  - git push --quiet origin master > /dev/null 2>&1
+
+env:
+  global:
+    secure: "jI5jd2l1yVkvcKr5dJDaT8e5eXlIe8EXYPgv8fuTNrzEj0N2UPkVlCjrNfyHI5+OkuVrqlNSOzoRxAna2DtkoWrGFPtxTxfT6nSamaXMUs3MtUpb83QdO19E9uAEtJr6SjPMz2aPujk7AVc2BgN1Tj63ZMibcGqLPo5noKQfTjelEsdunPvKNr/PwQlljLhL3jAuBfJzU6Beb1Usw/B9FC6S/60j8hGsEuqa8/L/OlxfUF6S1dQ+OyBHL87tWljsoLHTpqJiYk5DZCWmcUAREGMGs1EbBmpoDFwX6zeZSvPO0ikU8sWn7Ouc3ek6DJ+HwxqF1mNFGWiZsvwsxVDX5K1xcCbacMFFaDv66pnsx5ic4yHPyK/tPZxb2gzi3rax593t/N6fsW49ai0fIX/ZKfGtZOKWstyO59d0xbH5KnnTWiH7N1MP1iMxQ8ppJEDVyw4ku5Wfa5nPujOC3zKNcbTHEIloqrQd9KmHEaybuIJd22nBv2Ne6QftP9rw9ddBEgtsidMoXqv7fwMiHC4lIgEujw4QuGnPIZ2wmtJZYxCiCjgYl5X+9gJPjeTRq0jdnyPECUbSQX23fOEbUtRAwPknqJSvT5sgAJl1UbhZ9RZF2mIFFUHqKEMUYnjBMRUSvdbSM2mIs5URjcgEsIVhDAyC6o5uv+gMZ7ll3CBNIxc="

@@ -7,3 +7,10 @@
 *.vrb
 *.log
 *.out
+*.bbl
+*.lol
+*.lof
+*.lot
+*.blg
+*.brf
+*.backup
