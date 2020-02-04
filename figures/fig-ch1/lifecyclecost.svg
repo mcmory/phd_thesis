@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="lifecyclecost.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7234">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7236" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop7238" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7226"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7228" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5512"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4754"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4750"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4746"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4742"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4738"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4734"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4711"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4707"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4220"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4217"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4211"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4220-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4211-5"
+       is_visible="true" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7234"
+       id="radialGradient7240"
+       cx="373.11578"
+       cy="512.37244"
+       fx="373.11578"
+       fy="512.37244"
+       r="80.5"
+       gradientTransform="matrix(2.344419,-0.065312,0.08123968,2.9161538,-543.24893,-957.82584)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2837891"
+     inkscape:cx="396.97594"
+     inkscape:cy="557.19821"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:0.03921569;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4138"
+       width="510"
+       height="339.09476"
+       x="100"
+       y="343.26743" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 99.578571,535.16183 c 90.242609,43.42217 267.558619,89.38393 384.363749,100.44362 63.39504,6.00256 64.77669,4.85179 124.85731,8.37732"
+       id="path4140-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 100.33683,613.54097 c 152.13096,41.80137 359.14249,53.25379 509.34734,43.64217"
+       id="path4159"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 99.218821,651.76615 C 297.80891,645.70317 481.5661,590.60913 609.22139,542.9858"
+       id="path4161"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 100.77894,413.83581 C 250,514.3622 430,594.3622 608.44211,436.55146"
+       id="path4165"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:200%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="135.72646"
+       y="428.06735"
+       id="text4167"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         id="tspan4169"
+         x="135.72646"
+         y="428.06735"
+         style="font-size:10px">Total life-cycle cost</tspan><tspan
+         sodipodi:role="line"
+         x="135.72646"
+         y="450.56735"
+         id="tspan4171" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:200%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="160.87703"
+       y="555.362"
+       id="text4173"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         id="tspan4175"
+         x="160.87703"
+         y="555.362"
+         style="font-size:10px">Failure cost</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.97526073px;line-height:200%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="107.77444"
+       y="577.45032"
+       id="text4177"
+       sodipodi:linespacing="200%"
+       transform="scale(0.99218921,1.0078723)"><tspan
+         sodipodi:role="line"
+         id="tspan4179"
+         x="107.77444"
+         y="577.45032"
+         style="font-size:8.07773399px">Maintenance, inspection </tspan><tspan
+         sodipodi:role="line"
+         x="107.77444"
+         y="593.60577"
+         style="font-size:8.07773399px"
+         id="tspan5652">and monitoring cost</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:200%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="507.78943"
+       y="553.01483"
+       id="text4181"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         id="tspan4183"
+         x="507.78943"
+         y="553.01483"
+         style="font-size:10px">Initial cost </tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient7240);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:5.99999999, 5.99999999000000006;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4185"
+       width="160"
+       height="339.24237"
+       x="290"
+       y="343.11984" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:200%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="310.8638"
+       y="410.0498"
+       id="text4187"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         id="tspan4189"
+         x="310.8638"
+         y="410.0498">Near optimal region</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.75px;line-height:200%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="211.32664"
+       y="707.70953"
+       id="text4191"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         id="tspan4193"
+         x="211.32664"
+         y="707.70953">Structural performance during service life (P)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.75px;line-height:200%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-581.71289"
+       y="83.138283"
+       id="text4195"
+       sodipodi:linespacing="200%"
+       transform="matrix(-0.00118443,-0.9999993,0.9999993,-0.00118443,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4197"
+         x="-581.71289"
+         y="83.138283">Present value of cost (C)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.25px;line-height:200%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="390"
+       y="492.36221"
+       id="text4201"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         id="tspan4203"
+         x="390"
+         y="492.36221" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.75px;line-height:200%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="309.76874"
+       y="468.9939"
+       id="text4205"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         id="tspan4207"
+         x="309.76874"
+         y="468.9939"
+         style="font-size:10px">Optimum solution</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 355.94954,473.84364 30.48521,41.93428"
+       id="path4209"
+       inkscape:path-effect="#path-effect4211"
+       inkscape:original-d="m 355.94954,473.84364 30.48521,41.93428"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.75px;line-height:200%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="368.78577"
+       y="674.37634"
+       id="text4693"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         id="tspan4695"
+         x="368.78577"
+         y="674.37634">P*</tspan></text>
+    <g
+       id="g4713">
+      <g
+         id="g4720"
+         transform="translate(0,-9.34733)">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 395,686.70953 -10,10"
+           id="path4740"
+           inkscape:path-effect="#path-effect4742"
+           inkscape:original-d="m 395,686.70953 -10,10"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 385,686.70953 10,10"
+           id="path4744"
+           inkscape:path-effect="#path-effect4746"
+           inkscape:original-d="m 385,686.70953 10,10"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 94.93686,540.87003 105,530.70952"
+           id="path4748"
+           inkscape:path-effect="#path-effect4750"
+           inkscape:original-d="M 94.93686,540.87003 105,530.70952"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 95,530.70953 10,10"
+           id="path4752"
+           inkscape:path-effect="#path-effect4754"
+           inkscape:original-d="m 95,530.70953 10,10"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-6)"
+       d="m 158.82039,604.57714 31.39711,26.19398"
+       id="path4209-3"
+       inkscape:path-effect="#path-effect4211-5"
+       inkscape:original-d="m 158.82039,604.57714 31.39711,26.19398"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.75px;line-height:200%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="108"
+       y="520.42096"
+       id="text5506"
+       sodipodi:linespacing="200%"><tspan
+         sodipodi:role="line"
+         id="tspan5508"
+         x="108"
+         y="520.42096">C*</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 6;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 390,682.3622 0,-155 -290,0"
+       id="path5510"
+       inkscape:path-effect="#path-effect5512"
+       inkscape:original-d="m 390,682.3622 0,-155 -290,0"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.99999964;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5514"
+       width="4.9499164"
+       height="5.0329981"
+       x="386.23691"
+       y="523.19995" />
+  </g>
+</svg>

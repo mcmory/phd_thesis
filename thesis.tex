@@ -1,0 +1,152 @@
+%
+% TU/e Style Master Thesis template for LaTeX
+%
+% Public version 1.0
+% 2010 - 2013 Thijs Nugteren and Joos Buijs
+%
+% THIS IS THE MAIN FILE (i.e. compile this file, compiling the others directly won't work)
+%
+\documentclass[a4paper,12pt,oneside]{report}
+
+
+%all the other includes etc. are done in the thesis.sty file.
+\usepackage{thesis}
+
+
+%
+% These commands need to be defined in order to produce a correct and personalized document
+%
+\newcommand{\shortdoctitle}{PhD Thesis}
+\newcommand{\doctitle}{Toward Optimal Maintenance Planning of Existing Structures Using Monitoring Data}
+\newcommand{\docsubtitle}{PhD Thesis}
+
+\newcommand{\me}{Morteza Ahmadivala}
+\newcommand{\keywords}{keyword1, keyword2, keyword3}
+\newcommand{\version}{EMPTY version}
+\newcommand{\monthYear}{February 2020}
+
+%Be sure to use all the titles for your committee members!!! (their names show up on the very first page!)
+\newcommand{\firstCommitteeMember}{Your First Committee Member, usually the daily supervisor}
+\newcommand{\secondCommitteeMember}{Your second Committee Member, usually the daily supervisor}
+\newcommand{\thirdCommitteeMember}{Your Third Committee Member, usually the external member}
+
+\author{\me}
+
+%
+% PDF settings
+%
+\hypersetup
+{
+    pdfauthor={\me},
+    pdftitle={\shortdoctitle},
+    pdfsubject={\doctitle},
+    pdfkeywords={\keywords}
+}
+
+
+% the chapter title template
+\usepackage[normalem]{ulem}
+\usepackage{titlesec}
+\titleformat{\chapter}
+   {\normalfont\LARGE\bfseries\color{darkblue}}{\uline{\thechapter.\ }}{0pt}{\uline}
+
+
+
+
+\begin{document}
+
+%use this include for PDF and distribution versions
+\pagenumbering{roman}
+\include{titlepage}
+
+\normalsize
+
+\clearemptydoublepage
+
+%Sometimes line numbers are nice, uncomment the next line to enable:
+%\linenumbers
+
+%It could be handy to have a list of todos and brainstorms in your thesis
+%\chapter*{*General todos*}\todo{remove this chapter}
+%\input{chapters/general_todos}
+
+%\chapter*{*Brainstorm results*}\todo{remove this chapter}
+%\input{chapters/brainstorm_results}
+
+\chapter*{Abstract}\label{chapter:abstract}
+\input{chapters/abstract}
+
+\clearemptydoublepage
+
+%An executive summary if you want:
+%\chapter*{Executive summary}\label{chapter:executive_summary}
+%\input{chapters/executive_summary}
+
+%\clearemptydoublepage
+
+
+\chapter*{Preface}\label{chapter:preface}
+\input{chapters/preface}
+
+\clearemptydoublepage
+
+\renewcommand{\baselinestretch}{0.75}\normalsize
+\tableofcontents
+
+\clearemptydoublepage
+
+\listoffigures
+
+\clearemptydoublepage
+
+\listoftables
+
+\clearemptydoublepage
+
+\lstlistoflistings
+
+\clearemptydoublepage
+
+\renewcommand{\baselinestretch}{1.5}\normalsize
+
+\chapter{Introduction}\label{chapter:introduction}
+\setcounter{page}{0}
+\pagenumbering{arabic}
+%from here on, start the 'real' page numbering, from 1, with normal digits
+\input{chapters/introduction}
+
+\clearemptydoublepage
+
+\chapter{Background: Life-cycle management of deteriorating structures against fatigue}\label{chapter:ch2}
+\input{chapters/ch2}
+
+\clearemptydoublepage
+
+\chapter{AK-SYS-T: a new approach for time-depenent reliability analysis}\label{chapter:ch3}
+\input{chapters/ch3}
+
+\clearemptydoublepage
+
+\chapter{Second Real Chapter}\label{chapter:ch4}
+\input{chapters/ch4}
+
+\clearemptydoublepage
+
+\chapter{Conclusions}\label{chapter:conclusions}
+\input{chapters/conclusions}
+
+\clearemptydoublepage
+
+%Choose a good bibliography style, plain would do often, but these might be nice too
+%\bibliographystyle{these}
+\bibliographystyle{apalike}
+\bibliography{references}
+
+\clearemptydoublepage
+
+\appendix
+\addcontentsline{toc}{chapter}{Appendix}
+
+\input{appendices/main}
+
+\end{document}
